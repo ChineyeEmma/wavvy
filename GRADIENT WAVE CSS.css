@@ -55,8 +55,8 @@ div {
   list-style: ;
   margin: 0;
   padding: 0;
-  /* border: .01px solid #fff;
-    border-width:100%; */
+  border: .01px solid #fff;
+    border-width:100%;
   font-size: ;
   font-family: ;
   /*FOOTER GRADIENT BULLSHIT*/
@@ -68,28 +68,7 @@ div {
   width: 100%;
 }
 
-
-/*#footertop {
-  
-  CODE FOR THE TOP OF THE FOOTER
-  height: 40px;
-    list-style:;
-    margin: 0;
-    padding:0;
-    border:;
-    border-width:;    
-    font-size:;
-    font-family:;
-    background: pink;
-    position: fixed;  
-    bottom: 8px;  
-    width: 100%; 
-    height: 25px;
-    margin-right:;
-    margin-left:;
-  
-}*/
-
+/*twitter embedded crap
 .twitter-timeline {
   width: 250px;
   margin-left: 1px;
@@ -98,4 +77,4 @@ div {
   position: fixed;
   margin-top: 115px; 
   
-};
+};*/
